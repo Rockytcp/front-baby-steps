@@ -1,0 +1,10 @@
+.dark-mode {
+  flex: auto;
+  background-color: #201f1e;
+  color: rgb(236, 237, 237);
+}
+
+#avatarImg {
+  width: 250px;
+  border-radius: 50%;
+}
